@@ -17,7 +17,6 @@
 			<Item Name="Manual Build.vi" Type="VI" URL="../../build support/Manual Build.vi"/>
 			<Item Name="Post-Build Custom Action.vi" Type="VI" URL="../../build support/Post-Build Custom Action.vi"/>
 		</Item>
-		<Item Name="lvsrc" Type="Folder" URL=".."/>
 		<Item Name="cypher-dashboard-ui.lvclass" Type="LVClass" URL="../../../sample-registry/lvsrc/SMOs/cypher-dashboard-ui/cypher-dashboard-ui.lvclass"/>
 		<Item Name="cypher-dashboard.lvclass" Type="LVClass" URL="../../../sample-registry/lvsrc/SMOs/cypher-dashboard/cypher-dashboard.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
